@@ -1,0 +1,40 @@
+h1{
+  text-align: center;
+  color: salmon;
+  text-shadow: 3px 4px 5px silver;
+
+}
+
+h2{text-align: center;
+  color: #f44280;
+}
+
+.columns{
+  width: 50%;
+  float: left;
+  
+}
+
+#clear{
+  clear: left;
+}
+
+body{
+  font-size: 1.2em;
+  font-family: fantasy;
+}
+
+.backy{
+  background-color: salmon;
+}
+
+.contacts{
+  float:left;
+  background-color: salmon;
+  top: 2em;
+}
+
+.sed{
+  width: 40%;
+  margin-left: 13em;
+}
