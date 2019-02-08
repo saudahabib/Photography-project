@@ -12,11 +12,20 @@ h2{text-align: center;
 .columns{
   width: 50%;
   float: left;
-  
+
 }
 
 #clear{
   clear: left;
+  background-color: #f4d89f;
+}
+
+#nature{
+  background-color:#f4d89f;
+}
+
+#portraits{
+  background-color: salmon;
 }
 
 body{
